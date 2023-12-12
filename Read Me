@@ -1,0 +1,4 @@
+All that is needed to run this file is ensure that you have tkinter, pandas, random, and time
+installed, then run either 'main' file, I recommend the 'main' within the
+For_If_Pandas_Classes_and_Files_are_Required folder as that has some extra features
+and the better documented code.
