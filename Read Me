@@ -1,4 +1,34 @@
+----------------------------------Project Overview----------------------------------
+This project is a self made Tic Tac Toe board complete with both starting ways for
+single player chess as well as a local PvP mode. In addition there is an easter egg,
+more specifically a reference to the movie 'War Games'
+
+--------------------------------Installation and Setup--------------------------------
 All that is needed to run this file is ensure that you have tkinter, pandas, random, and time
-installed, then run either 'main' file, I recommend the 'main' within the
+installed, then run either 'main' file. I recommend the 'main' within the
 For_If_Pandas_Classes_and_Files_are_Required folder as that has some extra features
 and the better documented code.
+
+----------------------------------Usage Guide----------------------------------
+After running the main file for whichever version of the code you wish to play
+a menu will appear. Use this to choose from singleplayer, pvp, exiting the game,
+or the aforementioned easter egg. If you select the easter egg, simply press the
+button on the middle right, which toggles two opposing AI that play optimal moves
+(after the very first move is randomly selected). If you enter local pvp you will
+be shown a tic tac toe board and an exit button, as well as a save and load button.
+The save and load buttons each respectively save and load the current wins for each
+player, and the ties for each player. X will play first, and to make a move simply
+click where you wish to place your tile. If you selected singleplayer another menu
+will appear, which asks if you want to move first or let the bot move and play your
+move second, simply click the button that you prefer to play. Once either button is
+player a screen will show up with an exit button and the 9 tiles that make up the board.
+Simply click on an open tile to move and the bot will move in response. Be aware that
+the bot is not very good, so if you want a much harder challenge, try to tie the bot,
+without letting it win or lose.
+
+----------------------------------Testing instructions----------------------------------
+You can test the code by doing it? I don't really get what to put here.
+
+----------------------------------Project Overview----------------------------------
+For the code from the min/max algorithm I based it off of divyesh072019's code for
+the same thing, albeit with minor adjustments to get it to mesh with my code.
